@@ -10,8 +10,6 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi - Josh");
-            Console.WriteLine("Hi back - Daisy");
             Console.WriteLine("FizzBuzz!");
             Console.ReadKey();
         }
