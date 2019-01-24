@@ -12,7 +12,7 @@ namespace FizzBuzz
         {
             Console.WriteLine("Hi, all! Welcome to our Git practice");
             Console.WriteLine("FizzBuzz!");
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
