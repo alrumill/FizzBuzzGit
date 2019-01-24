@@ -12,7 +12,7 @@ namespace FizzBuzz
         {
             Console.WriteLine("Hi - Josh");
             Console.WriteLine("FizzBuzz!");
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }
