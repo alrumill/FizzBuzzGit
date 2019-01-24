@@ -11,6 +11,7 @@ namespace FizzBuzz
         static void Main(string[] args)
         {
             Console.WriteLine("Hi, all! Welcome to our Git practice");
+            Console.WriteLine("Daisy pushed into master");
             Console.WriteLine("FizzBuzz!");
             Console.ReadLine();
         }
