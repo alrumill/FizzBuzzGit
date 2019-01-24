@@ -10,7 +10,7 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi");
+            Console.WriteLine("Hi, all! Welcome to our Git practice");
             Console.WriteLine("FizzBuzz!");
             Console.ReadKey();
         }
